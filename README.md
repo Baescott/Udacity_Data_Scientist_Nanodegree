@@ -8,4 +8,14 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 
 ### Project 1
 #### Simple analysis of Stack Overflow survey data
-- Contains 3 questions and answers
+##### Summary
+  - ddd
+  - aaa
+  - bbb
+##### Libraries used
+  - `pandas`, `numpy`, `time`, `sklearn`, `matplotlib`, `seaborn`, `os`
+##### Motivations
+  - Inquries about relationships between job related variables and survey result
+##### Files in Repo
+
+
