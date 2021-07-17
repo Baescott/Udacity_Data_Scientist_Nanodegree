@@ -6,6 +6,8 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 
 - [Project 1: Simple analysis of Stack Overflow survey data](#project_1)
 
+---
+
 ### Project 1: Simple analysis of Stack Overflow survey data
 #### Summary
   - Professional developers feel more satisfied with their job and participate more frequently in Stack Overflow.
