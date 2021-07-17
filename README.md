@@ -11,7 +11,7 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 ### Project 1: Simple analysis of Stack Overflow survey data
 #### Summary
   - Professional developers feel more satisfied with their job and participate more frequently in Stack Overflow.
-  - Stack Overflow survey could used for predicting each respondant's salary.
+  - Stack Overflow survey could used for predicting each respondent's salary.
 #### Libraries used
   - `pandas`, `numpy`, `time`, `sklearn`, `matplotlib`, `seaborn`, `os`
 #### Motivations
