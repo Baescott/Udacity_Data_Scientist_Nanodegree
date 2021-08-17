@@ -9,6 +9,7 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 - [Portfolio Exercise 2: Deploy simple data dashboard](#port_exercise_2)
 
 ---
+---
 
 ### Project 1: Simple analysis of Stack Overflow survey data
 #### Post link: https://baescott.medium.com/predicting-personal-compensation-with-survey-data-from-stack-overflow-3dfff4832a4b
@@ -23,6 +24,7 @@ This repository is for Data Scientist nanodegree lecture in udacity.
   - Data: developer_survey_2020.zip, developer_survey_2020
   - Jupyter notebook: udacity_project_1_Stack_overflow_survey_analysis.ipynb
 
+---
 
 ### Portfolio Exercise 1: Upload simple package for crawling and analysis
 #### Post link: 
@@ -37,6 +39,7 @@ This repository is for Data Scientist nanodegree lecture in udacity.
   - Data: developer_survey_2020.zip, developer_survey_2020
   - Jupyter notebook: udacity_project_1_Stack_overflow_survey_analysis.ipynb
 
+---
 
 ### Portfolio Exercise 2: Deploy simple data dashboard
 #### Post link: 
