@@ -50,14 +50,13 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 
 ## Project 2
 ### - Disaster Response Pipelines
-#### Post link: https://baescott.medium.com/predicting-personal-compensation-with-survey-data-from-stack-overflow-3dfff4832a4b
 #### Summary
-  - Professional developers feel more satisfied with their job and participate more frequently in Stack Overflow.
-  - Stack Overflow survey could used for predicting each respondent's salary.
+  - Make database and build classifier for classifying disaster responding messages.
+  - Build web application for whole procedure with `flask` and `plotly`
 #### Libraries used
-  - `pandas`, `numpy`, `time`, `sklearn`, `matplotlib`, `seaborn`, `os`
+  - `pandas`, `numpy`, `time`, `sklearn`, `nltk`, `sqlalchemy`, `pickle`, `plotly`, `flask`
 #### Motivations
-  - Inquries about relationships between job related variables and survey result
+  - Eager to build full pipeline for specific model
 #### Files in Repo
-  - Data: developer_survey_2020.zip, developer_survey_2020
-  - Jupyter notebook: udacity_project_1_Stack_overflow_survey_analysis.ipynb
+  - Data: disaster_categories.csv, disaster_messages.csv, DisasterResponse.db
+  - python files: process_data.py, train_classifier.py
