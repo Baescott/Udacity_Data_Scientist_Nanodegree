@@ -11,7 +11,7 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 ---
 ---
 
-### Project 1: Simple analysis of Stack Overflow survey data
+### Project_1: Simple analysis of Stack Overflow survey data
 #### Post link: https://baescott.medium.com/predicting-personal-compensation-with-survey-data-from-stack-overflow-3dfff4832a4b
 #### Summary
   - Professional developers feel more satisfied with their job and participate more frequently in Stack Overflow.
