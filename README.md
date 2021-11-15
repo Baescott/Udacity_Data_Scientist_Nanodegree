@@ -8,6 +8,8 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 - [Portfolio Exercise 1: Upload simple package for crawling and analysis](#portfolio-exercise-1)
 - [Portfolio Exercise 2: Deploy simple data dashboard](#portfolio-exercise-2)
 - [Project 2: Disaster Response Pipelines](#project-2)
+- [Project 3: Recommendation with IBM Articles](#project-3)
+- [Capstone Project: Build Sparkify Churn Detection Model](#capstone-project)
 
 ---
 ---
@@ -84,3 +86,18 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 #### Files in Repo
   - data: articles_community.csv, user-item-interactions.csv, top_5.p, top_10.p, top_20.p, user_item_matrix.p
   - python files: Recommendations_with_IBM.ipynb, Recommendations_with_IBM.html, project_tests.py
+
+---
+
+## Capstone Project
+### - Build Sparkify Churn Detection Model
+#### Summary
+- Build an churn detection model for preventing breakaway
+- Because of low computing power, we couldn't do cross validation
+#### Libraries used
+- `pandas`, `numpy`, `pickle`, `matplotlib`, `seaborn`, `pyspark`
+#### Motivations
+- Eager to learn and use `pyspark`
+#### Files in Repo
+- data: mini_sparkify_event_data.json, eval_default_result.pkl
+- python files: Sparkify_1_ETL_and_EDA.ipynb, Sparkify_2_FE_and_Modeling.ipynb
