@@ -30,7 +30,8 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 
 ---
 
-## Portfolio Exercise 1
+## Portfolio Exercise 1 
+## (TBD)
 ### - Upload simple package for crawling and analysis
 #### Post link: 
 #### Summary
@@ -41,6 +42,7 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 ---
 
 ## Portfolio Exercise 2
+## (TBD)
 ### - Deploy simple data dashboard
 #### Post link: 
 #### Summary
@@ -66,6 +68,7 @@ This repository is for Data Scientist nanodegree lecture in udacity.
 ---
 
 ## Portfolio Exercise 3
+## (TBD)
 ### - Starbucks Data Analysis
 #### Post link: 
 #### Summary
